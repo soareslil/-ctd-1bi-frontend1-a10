@@ -56,7 +56,16 @@
       position: relative;
       background-position: center;
   }
-  
+ 
+  .card__background-alerquina {
+      background-image: url('../img/pink-glitter.jpg');
+     height: 180px;
+      border-top-left-radius: 20px;
+      border-top-right-radius: 20px;
+      position: relative;
+      background-position: center;
+  }
+
   .card__produto{
     width: 90px;
     height: 90px;
@@ -86,6 +95,7 @@
   
   .card__descricao {
     text-align: justify;
+    height: 131px;
   }
   
   .card__botao {
