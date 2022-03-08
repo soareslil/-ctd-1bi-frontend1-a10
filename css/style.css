@@ -17,9 +17,21 @@
     margin-bottom: 60px;
   }
 
-  .main-card{
+  /* .main-card{
     padding-top: 200px;
     border: 10px solid black;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+  } */
+
+  .main-cards{
+      max-width: 640px;
+      margin-left: auto;
+      margin-right: auto;
   }
 
   .card {
@@ -27,11 +39,13 @@
     height: 460px;
     background-color: #F3F3F3;
     border-radius: 20px;
-    margin-left: auto;
-    margin-right: auto;
-  
+    display: inline-block;
   }
-  
+
+ .card-1 {
+    margin-right: 30px;
+}
+
   
   .card__background {
   
