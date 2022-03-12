@@ -120,6 +120,12 @@
       background-color: #1CD1B0;
       padding: 10px;
       padding-left: 25px;
+      width: 100%;
+      position: fixed;
+  }
+
+  header{
+    padding-top: 40px;
   }
 
   .rodape{
